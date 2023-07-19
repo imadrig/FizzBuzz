@@ -12,7 +12,7 @@ namespace FizzBuzzWhiteBoardChallenge
         {
             if (num % 5 == 0 && num % 3 == 0)
             {
-                Console.WriteLine("The number is divisible by 3 and 5.");  
+                Console.WriteLine("fizzbuzz");  
             }
             else if (num % 5 == 0)
             {
